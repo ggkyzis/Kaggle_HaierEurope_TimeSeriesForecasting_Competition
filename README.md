@@ -7,3 +7,5 @@ Afterwards, I transitioned to XGBRegressor and LGBMRegressor that indicate highe
 Due to the low volume of data in each time-series and the large volume of different time series to examine, Deep Learning approaches with LSTM, Transformer etc. were not examined.
 
 My preference language was Python, and due to the high complexity of the problem I performed error-handling in each model fitting process in order to automate the forecasting of each univariate time series, and enable the completeness of my solution in time.
+
+* Please note that the initial Exporatory Data Analysis (EDA) has not been included in this repository -> To be updated.
